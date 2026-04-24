@@ -120,7 +120,7 @@ Example log output:
 ![Google Sheet](assets/sheet.png)
 
 ### 📬 Email Output
-![Email]([assets/email.png])
+![Email](assets/email.png)
 
 ### 💻 Terminal Logs
 ![Terminal](assets/terminal.png)
