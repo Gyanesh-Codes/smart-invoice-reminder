@@ -120,7 +120,7 @@ Example log output:
 ![Google Sheet](assets/sheet.png)
 
 ### 📬 Email Output
-![Email](assets/email.png)
+![Email]([assets/email.png](https://github.com/Gyanesh-Codes/smart-invoice-reminder/blob/main/assets/Automated%20Reminder%20Email.png))
 
 ### 💻 Terminal Logs
 ![Terminal](assets/terminal.png)
