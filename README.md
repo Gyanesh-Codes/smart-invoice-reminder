@@ -114,6 +114,17 @@ Example log output:
 2026-04-24 10:00:03,000 | INFO | Reminder run complete | sent=1 skipped=3 errors=0
 ```
 
+## 📸 Demo / Screenshots
+
+### 🧾 Google Sheets
+![Google Sheet](assets/GoogleSheets(DataSource).png)
+
+### 📬 Email Output
+![Email]([assets/AutomatedReminderEmail.png])
+
+### 💻 Terminal Logs
+![Terminal](assets/ScriptExecutionLogs.png)
+
 ## Example Use Case
 
 You maintain a sheet of invoices for clients. Each day, the script checks whether a reminder should be sent. If the reminder date has arrived and the invoice is still unpaid, the customer receives an email reminder automatically.
