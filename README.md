@@ -117,13 +117,13 @@ Example log output:
 ## 📸 Demo / Screenshots
 
 ### 🧾 Google Sheets
-![Google Sheet](assets/GoogleSheets(DataSource).png)
+![Google Sheet](assets/sheet.png)
 
 ### 📬 Email Output
-![Email]([assets/AutomatedReminderEmail.png])
+![Email]([assets/email.png])
 
 ### 💻 Terminal Logs
-![Terminal](assets/ScriptExecutionLogs.png)
+![Terminal](assets/terminal.png)
 
 ## Example Use Case
 
